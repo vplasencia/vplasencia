@@ -13,9 +13,3 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/vivian_plasencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/vivian-plasencia-221603170)
-
-<br />
-
-### Contact:
-
-Email: hello@vivianplasencia.com
