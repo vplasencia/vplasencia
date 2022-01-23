@@ -20,4 +20,4 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vplasencia&title_color=818cf8&bg_color=111827&text_color=e5e7eb&border_color=e5e7eb)](https://github.com/vplasencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Vivian Plasencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vplasencia&show_icons=true&icon_color=6366f1&title_color=818cf8&bg_color=111827&text_color=e5e7eb&border_color=e5e7eb)](https://github.com/vplasencia)
+[![Vivian Plasencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vplasencia&show_icons=true&icon_color=6366f1&title_color=818cf8&bg_color=111827&text_color=e5e7eb&border_color=e5e7eb&custom_title=Github%20Stats&line_height=40)](https://github.com/vplasencia)
