@@ -16,6 +16,15 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 
 <br />
 
+### Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Blog: <a href="https://vivianblog.hashnode.dev/" target="_blank">https://vivianblog.hashnode.dev/</a>
+
+<br />
+
 ### Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vplasencia&title_color=818cf8&bg_color=111827&text_color=e5e7eb&border_color=e5e7eb)](https://github.com/vplasencia)
