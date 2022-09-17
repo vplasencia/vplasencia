@@ -21,7 +21,7 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-Blog: <a href="https://vivianblog.hashnode.dev/" target="_blank">https://vivianblog.hashnode.dev/</a>
+Blog: <https://vivianblog.hashnode.dev/>
 
 <br />
 
