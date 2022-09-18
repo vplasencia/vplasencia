@@ -20,7 +20,7 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 
 <br />
 
-### Latest Blog Articles
+### Latest Blog Articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [How to create a Zero Knowledge DApp: From zero to production](https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production)
