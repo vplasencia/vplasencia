@@ -6,15 +6,9 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 
 ### Connect with me:
 
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/globe.svg' alt='website' height='35'>](https://vivianplasencia.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/github.svg' alt='github' height='35'>](https://github.com/vplasencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/ViviPlasenciaC)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/vivian_plasencia)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/vivian-plasencia-221603170)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/mail.svg' alt='email' height='35'>](mailto:v.pcalana@gmail.com)
 
