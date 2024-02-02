@@ -10,6 +10,8 @@ I'm a Computer Scientist curious about Web3. I like building stuff.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/ViviPlasenciaC)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/telegram.svg' alt='telegram' height='35'>](https://t.me/vivianpc)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/mail.svg' alt='email' height='35'>](mailto:v.pcalana@gmail.com)
 
 <br />
