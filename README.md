@@ -1,6 +1,6 @@
 ## Hi there <img src="https://github.com/vplasencia/vplasencia/blob/main/icons/wave.gif" height="30px"> I am Vivian Plasencia!
 
-I'm a Computer Scientist curious about Web3. I like building stuff.
+I'm a Computer Scientist passionate about Web3 and Zero-Knowledge Proofs. I like building stuff.
 
 <br />
 
