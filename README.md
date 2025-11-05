@@ -6,13 +6,13 @@ I'm a Computer Scientist passionate about Web3 and Zero-Knowledge Proofs. I like
 
 ### Connect with me:
 
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/github.svg' alt='github' height='35'>](https://github.com/vplasencia)
+[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/github.svg' alt='github' height='36'>](https://github.com/vplasencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/x.svg' alt='x' height='35'>](https://twitter.com/ViviPlasenciaC)
+[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/x.svg' alt='x' height='36'>](https://twitter.com/ViviPlasenciaC)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/telegram.svg' alt='telegram' height='35'>](https://t.me/vivianpc)
+[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/telegram.svg' alt='telegram' height='36'>](https://t.me/vivianpc)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/mail.svg' alt='email' height='35'>](mailto:v.pcalana@gmail.com)
+[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/mail.svg' alt='email' height='36'>](mailto:v.pcalana@gmail.com)
 
 <br />
 
