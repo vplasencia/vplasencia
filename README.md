@@ -8,7 +8,7 @@ I'm a Computer Scientist passionate about Web3 and Zero-Knowledge Proofs. I like
 
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/github.svg' alt='github' height='35'>](https://github.com/vplasencia)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/ViviPlasenciaC)
+[<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/x.svg' alt='x' height='35'>](https://twitter.com/ViviPlasenciaC)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://github.com/vplasencia/vplasencia/blob/main/icons/telegram.svg' alt='telegram' height='35'>](https://t.me/vivianpc)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
